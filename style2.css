@@ -1,0 +1,56 @@
+body {
+    background-color: #001B3A;
+}
+
+.background {
+    background-color: #1B305B;
+}
+
+.Hero-section {
+    background-image: url('https://img.freepik.com/free-vector/blue-black-abstract-background_1340-17010.jpg?semt=ais_hybrid&w=740&q=80');
+    background-size: cover;
+    background-position: center;
+}
+
+h2, h3, h5 {
+    font-family: jura;
+}
+
+h4 {
+    font-family: Jura;
+}
+
+.btn {
+    font-family: Gotu;
+}
+
+a, p {
+    font-family: open-sans;
+}
+
+
+.img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.img-top {
+    width: 100%;
+    object-fit: cover;
+    background-position: center;
+    max-height: 100px;
+}
+
+.rounded-left {
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.rounded-right {
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.font-size-text {
+    font-size: larger;
+}

@@ -1,0 +1,72 @@
+body {
+    background-color: #001B3A;
+}
+
+.background {
+    background-color: #1B305B;
+}
+
+.Hero-section {
+    background-image: url('https://img.freepik.com/free-vector/blue-black-abstract-background_1340-17010.jpg?semt=ais_hybrid&w=740&q=80');
+    background-size: cover;
+    background-position: center;
+}
+
+.profile-img {
+    max-width: 275px;
+}
+
+.card img {
+    object-fit: cover;
+    aspect-ratio: 2/1;
+}
+
+.card {
+    border: 4px solid black;
+    border-radius: 7%;
+    aspect-ratio: 2/1;
+}
+
+.btn {
+    border: 2px solid black;
+}
+
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+    background-position: center;
+    max-height: 200px;
+}
+
+.btn-lg {
+    border: 4px solid black;
+}
+
+h2, h5 {
+    font-family: jura;
+}
+
+h4 {
+    font-family: Jura;
+}
+
+.btn {
+    font-family: Gotu;
+}
+
+a, p {
+    font-family: open-sans;
+}
+
+.card {
+    background-color: #2B619A;
+}
+
+.card img {
+    object-fit: cover;
+    aspect-ratio: 2/1;
+}
+
+footer {
+    background-color: #001B3A;
+}
