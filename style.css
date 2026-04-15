@@ -13,7 +13,10 @@ body {
 }
 
 .profile-img {
-    max-width: 275px;
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 1/1;
 }
 
 .card img {
